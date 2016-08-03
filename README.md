@@ -79,3 +79,6 @@ $ sudo dkms remove -m 8812au -v 4.2.2 --all
 - D-Link DWA-171
   - [D-Link page](http://www.dlink.com/no/nb/home-solutions/connect/adapters/dwa-171-wireless-ac-dual-band-usb-adapter)
   - [wikidevi page](http://wikidevi.com/wiki/D-Link_DWA-171_rev_A1)
+
+- Unex DAUK-W8812
+  - [Unex page](http://www.unex.com.tw/wi-fi/dauk-w8812)
